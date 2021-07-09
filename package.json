@@ -1,0 +1,15 @@
+{
+  "name": "@powerfulweb/hugo-mod",
+  "version": "1.0.0",
+  "description": "common modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/powerfulweb/hugo-mod"
+  },
+  "author": "Powerful Web Design",
+  "license": "ISC"
+}
