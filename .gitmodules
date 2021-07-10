@@ -10,3 +10,6 @@
 [submodule "assets/js/on-scroll"]
 	path = assets/js/on-scroll
 	url = https://github.com/powerfulweb/on-scroll
+[submodule "assets/js/toggler-icon-morph"]
+	path = assets/js/toggler-icon-morph
+	url = https://github.com/powerfulweb/toggler-icon-morph
