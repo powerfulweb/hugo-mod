@@ -4,3 +4,6 @@
 [submodule "assets/js/contact-form-fetch"]
 	path = assets/js/contact-form-fetch
 	url = https://github.com/powerfulweb/contact-form-fetch
+[submodule "assets/js/contact-form-dropzone"]
+	path = assets/js/contact-form-dropzone
+	url = https://github.com/powerfulweb/contact-form-dropzone
