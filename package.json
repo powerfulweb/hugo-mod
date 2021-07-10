@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "description": "common modules",
   "main": "index.js",
+  "devDependencies": {
+    "standard-version": "^9.2.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "vendor": "hugo mod vendor",
+    "release": "standard-version",
+    "release:dry-run": "standard-version --dry-run",
+    "git:push": "git push --follow-tags origin main"
   },
   "repository": {
     "type": "git",
