@@ -7,3 +7,6 @@
 [submodule "assets/js/contact-form-dropzone"]
 	path = assets/js/contact-form-dropzone
 	url = https://github.com/powerfulweb/contact-form-dropzone
+[submodule "assets/js/on-scroll"]
+	path = assets/js/on-scroll
+	url = https://github.com/powerfulweb/on-scroll
