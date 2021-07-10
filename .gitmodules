@@ -1,0 +1,6 @@
+[submodule "contact-form-fetch"]
+	path = contact-form-fetch
+	url = https://github.com/powerfulweb/contact-form-fetch
+[submodule "assets/js/contact-form-fetch"]
+	path = assets/js/contact-form-fetch
+	url = https://github.com/powerfulweb/contact-form-fetch
