@@ -1,6 +1,6 @@
 {
   "name": "@powerfulweb/hugo-mod",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common modules",
   "main": "index.js",
   "devDependencies": {
