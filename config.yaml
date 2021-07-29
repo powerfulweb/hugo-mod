@@ -1,8 +1,8 @@
 module:
   hugoVersion:
     extended: true
-    min: "0.82" #keep increasing as hugo is upgraded locally
-  # imports:
+    min: "0.85" #keep increasing as hugo is upgraded locally
+  imports:
   #   - path: github.com/twbs/icons
   #     ignoreConfig: true
   #     mounts:
@@ -20,3 +20,5 @@ module:
   #     mounts:
   #     - source: icons
   #       target: assets/icons/simple
+    - path: github.com/powerfulweb/image-gen-hugo
+

@@ -7,10 +7,12 @@
     "standard-version": "^9.2.0"
   },
   "scripts": {
-    "vendor": "hugo mod vendor",
     "release": "standard-version",
     "release:dry-run": "standard-version --dry-run",
-    "git:push": "git push --follow-tags origin main"
+    "git:push": "git push --follow-tags origin master",
+    "mod:vendor": "hugo mod vendor",
+    "mod:update": "hugo mod get -u",
+    "mod:tidy": "hugo mod tidy"
   },
   "repository": {
     "type": "git",
