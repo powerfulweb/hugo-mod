@@ -1,0 +1,2 @@
+module:
+  replacements: "github.com/powerfulweb/image-mod-hugo -> ../../../powerfulweb/image-mod-hugo"
